@@ -5,7 +5,7 @@ from streamlit_webrtc import webrtc_streamer, WebRtcMode, RTCConfiguration
 from keras.models import load_model
 import streamlit as st
 
-model = load_model('emotiondetector6.h5')
+model = load_model('facialemotionmodel.h5')
 
 def preprocess_image4model(img):
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)  # Convert image to grayscale
