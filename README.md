@@ -15,7 +15,7 @@ Using **Sequential Model** for Training
 
 Save Model named - **facialemotionmodel.h5**
 
-## Visual Studio Code - *Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.*
+### Visual Studio Code - *Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.*
 
 
 Make 2 radio buttons named browse and live
